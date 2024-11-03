@@ -34,12 +34,16 @@ body{
     margin-top: -555px;
     position: relative;
 }
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
 .models{
     float: left;
     font-family: "Blender Pro Heavy"; 
     height: 5px;
     width: 107px;
-    margin-left: 41px;
+    margin-left: 40px;
     margin-top: 65px;
     color: white;
     font-size: 20px;
@@ -49,7 +53,7 @@ body{
     font-family: "Blender Pro Heavy"; 
     height: 5px;
     width: 151px;
-    margin-left: 1px;
+    margin-left: 0px;
     margin-top: 65px;
     color: white;
     font-size: 20px;
@@ -60,7 +64,7 @@ body{
     font-size: 20px;
     height: 6px;
     width: 244px;
-    margin-left: 39px;
+    margin-left: 38px;
     margin-top: 65px;
     color: white;
     letter-spacing: -.2px;
@@ -70,7 +74,7 @@ body{
     font-family: "Blender Pro Heavy"; 
     height: 5px;
     width: 7px;
-    margin-left: 31px;
+    margin-left: 30px;
     margin-top: 65px;
     color: white;
     font-size: 20px;
@@ -80,7 +84,7 @@ body{
     font-family: "Blender Pro Heavy"; 
     height: 5px;
     width: 101px;
-    margin-left: 95px;
+    margin-left: 94px;
     margin-top: 65px;
     color: white;
     font-size: 20px;
@@ -90,7 +94,7 @@ body{
     font-family: "Blender Pro Heavy"; 
     height: 5px;
     width: 7px;
-    margin-left: 37px;
+    margin-left: 35px;
     margin-top: 65px;
     color: white;
     font-size: 20px;
@@ -99,7 +103,7 @@ body{
     float: left;
     height: 27px;
     width: 25px;
-    margin-left: 204px;
+    margin-left: 203px;
     margin-top: 61px;
     font-size: 17.2px;
     cursor: pointer;
@@ -110,7 +114,7 @@ body{
     font-family: "Blender Pro Heavy"; 
     height: 5px;
     width: 124px;
-    margin-left: 10px;
+    margin-left: 9px;
     margin-top: 65px;
     color: white;
     font-size: 20px;
@@ -120,7 +124,7 @@ body{
     float: left;
     height: 28px;
     width: 30px;
-    margin-left: 14px;
+    margin-left: 13px;
     margin-top: 62px;
     cursor: pointer;
 }
@@ -129,7 +133,7 @@ body{
     font-family: "Blender Pro Heavy"; 
     height: 5px;
     width: 7px;
-    margin-left: 5px;
+    margin-left: 4px;
     margin-top: 65px;
     color: white;
     cursor: pointer;
